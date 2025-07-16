@@ -1,0 +1,17 @@
+train: E:/Projects/shop/FineTune/data/train/images
+val:   E:/Projects/shop/FineTune/data/val/images
+
+nc: 11
+
+names:
+  - "Vaseline"
+  - "glow and lovely"
+  - "haircream"
+  - "hand"
+  - "hygienix sanitizer"
+  - "nyka bb cream"
+  - "parachute coconut oil"
+  - "perfume"
+  - "person"
+  - "plum"
+  - "shelf"

@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Vaseline"
+    },
+    {
+      "id": 1,
+      "name": "glow and lovely"
+    },
+    {
+      "id": 2,
+      "name": "haircream"
+    },
+    {
+      "id": 3,
+      "name": "hand"
+    },
+    {
+      "id": 4,
+      "name": "hygienix sanitizer"
+    },
+    {
+      "id": 5,
+      "name": "nyka bb cream"
+    },
+    {
+      "id": 6,
+      "name": "parachute coconut oil"
+    },
+    {
+      "id": 7,
+      "name": "perfume"
+    },
+    {
+      "id": 8,
+      "name": "person"
+    },
+    {
+      "id": 9,
+      "name": "plum"
+    },
+    {
+      "id": 10,
+      "name": "shelf"
+    },
+    {
+      "id": 11,
+      "name": "allout"
+    },
+    {
+      "id": 12,
+      "name": "white tone"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
