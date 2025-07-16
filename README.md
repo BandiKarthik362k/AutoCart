@@ -1,7 +1,6 @@
 # AutoCart
 
-This is an idea to implement automatic carting system, where an individual can shop by walk-in and out without the hustle of paying and standing in lines.
-Thanks to Amazon, who has first introduced Amagon Go - The walk-in stores.
+Real-time object recognition system designed for checkout-free retail experiences—similar to Amazon Go. It uses computer vision and deep learning to automatically detect and track items picked from or placed into a shopping cart or shelf, eliminating the need for manual scanning or checkout lines.
 
 # Requirements
   - ultralytics
@@ -11,7 +10,7 @@ Thanks to Amazon, who has first introduced Amagon Go - The walk-in stores.
   - optuna
 
 # Implementation details 
-- Collected sample images of different types of products, products inside a shelf, in different angles.
+- Collected sample images of different types of products, products inside a shelf, in different angles. (images removed from data section for privacy)
 - scrapped images on multiple time frame intervals from a video using open CV on different frame levels.
 - I have augmented the collected samples using torchvision , so that the model will learn enough edges and corners in detecting the objects.
 - Did hyperparamter tuning using Optuna in fining the the best Learning rates, Mosaic, and mixups and warmups for the schedule leraning rates.
